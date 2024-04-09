@@ -10,11 +10,11 @@ we use The dataset used to train the model consists of 360 image all created man
 
 3. open the project floder in the VScode
 
-4. install required Libraries where in (41_Requirements.txt)
+4. install required Libraries where in `41_Requirements.txt`
 
-5. run the file with name (test.py)
+5. run the file with name `test.py`
 
-6. do sign like(hello,yes ,i love you )like that in Data Folder
+6. do sign like( hello,yes ,i love you )like that in Data Folder
 
 
 
